@@ -84,17 +84,22 @@ export default function ArticlePage() {
           <div className="lg:col-span-1">
             <div className="sticky top-4 space-y-6">
               {/* PDF Download Button */}
-              <Button className="w-full bg-[#7FB843] hover:bg-[#6FA833] text-white py-6 text-base">
-                <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M12 19l9 2-9-18-9 18 9-2m0 0v-8m0 8l-4-2m4 2l4-2"
-                  />
-                </svg>
-                PDF
-                <Download className="ml-auto h-5 w-5" />
+              <Button 
+                className="w-full bg-[#7FB843] hover:bg-[#6FA833] text-white py-6 text-base"
+                asChild
+              >
+                <a href={article.pdfUrl} download>
+                  <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M12 19l9 2-9-18-9 18 9-2m0 0v-8m0 8l-4-2m4 2l4-2"
+                    />
+                  </svg>
+                  PDF
+                  <Download className="ml-auto h-5 w-5" />
+                </a>
               </Button>
 
               {/* Stats */}

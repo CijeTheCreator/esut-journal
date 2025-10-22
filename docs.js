@@ -7,7 +7,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/NDuche+and+Ven+jkj+paper.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Alhaji Thomas", "Egbo Anthonia Chinoyelum"],
@@ -17,7 +17,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Egbo+Anthonia.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Onyekezie Chizoba Juliet"],
@@ -27,7 +27,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Onyekezie+Juliet.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Egbo, Anthonia Chinonyelum (Ph.D)", "Ogenyi Andrew Ejah"],
@@ -37,7 +37,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Ogenyi+Andrew+and+Egbo+A.C.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Chukwuemeka Obiageli Angela"],
@@ -47,7 +47,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Chukwuemaka+Obiageli+Angela.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Uchenna Adoctus Maduekwe"],
@@ -57,7 +57,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Uchenna+Adoctus+Madukwe.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Igwesi Faith Nebechi"],
@@ -67,7 +67,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Igwesi+faith.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Okonji Ndidiamaka Emilia"],
@@ -77,7 +77,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Okonji+Ndidiamaka.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Edo Chibuogwu U."],
@@ -87,7 +87,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Edo+Chibuogwu.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Ezeudu, N.M."],
@@ -97,7 +97,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Ezeudu+N.M.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Ugwu, Chidimma Priscilla"],
@@ -107,7 +107,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Ugwu+Chidimma.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Ozor, Tobias Obiora", "Umezurike, Juliet Chinelo"],
@@ -117,7 +117,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Ozor%2C+Tobias.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Ani, Nnenna Glory"],
@@ -127,7 +127,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Ani+Nnenna.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Anochili Akunna A."],
@@ -137,7 +137,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Anochili+Akunna.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Dr. John O. Odo"],
@@ -147,7 +147,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Dr.+John+Odo.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Egbo, Chinonye Emmanuella"],
@@ -157,7 +157,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Egbo+Chinonyelum+Emmanuella.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Dr. Eke N. Ukpai", "Mrs Ijeoma J. Chukwuemeka-Nworu"],
@@ -167,7 +167,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Dr+Eke+Ukpai.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Edeh Ephraim Onyekachi"],
@@ -177,7 +177,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Edeh+Ephraim.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Dr Nweze, Bernardine, Ngozi"],
@@ -187,7 +187,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Dr+Nweze+B.N.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Asogwa, Solomon C.", "Aneke Ogechukwu C."],
@@ -197,7 +197,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Asogwa+and+Aneke.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
   {
     authors: ["Dr. John O. Odo"],
@@ -207,7 +207,7 @@
     pdfUrl: "https://esut-journal-bucket.s3.eu-north-1.amazonaws.com/Dr.+J.O.+Odo.pdf",
     publishDate: "June 2021",
     views: 0,
-    volumeId: "jx7a42gw5zrnh652vcfjm2efrs7st3e6",
+    volumeId: "j5728rk6fsnhae1vm4gbgsj1kh7szsph",
   },
 
 ]
