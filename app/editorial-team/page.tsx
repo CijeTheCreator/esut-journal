@@ -18,7 +18,7 @@ export default function EditorialTeamPage() {
 
           <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
             <p>
-              The Editorial Team of "Trends in Libraries, Information Science and Technology" is composed of experienced
+              The Editorial Team of "The Enugu State University Journal of Guidance and Counselling" is composed of experienced
               scholars and professionals dedicated to maintaining the highest standards of academic publishing.
             </p>
 
@@ -93,7 +93,7 @@ export default function EditorialTeamPage() {
 
             <h2 className="text-2xl font-serif text-[#9A5B49] mt-8 mb-4">Editorial Board</h2>
             <p>
-              Our Editorial Board comprises leading experts in library science, information science, and technology from
+              Our Editorial Board comprises leading experts in Guidance and Counselling from
               institutions across Nigeria and internationally. They provide guidance on editorial policies and assist in
               the peer review process.
             </p>

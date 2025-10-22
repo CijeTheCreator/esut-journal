@@ -38,13 +38,6 @@ export default function ArticlePage() {
     <div className="min-h-screen bg-white">
       <Header />
 
-      {/* Journal Header Bar */}
-      <div className="bg-[#5B8A8E] text-white py-4">
-        <div className="container mx-auto px-4">
-          <p className="text-lg font-serif">Trends in Libraries, Information Science and Technology</p>
-        </div>
-      </div>
-
       <section className="container mx-auto px-4 py-12">
         <Link
           href={`/archive/${volumeId}`}
@@ -84,7 +77,7 @@ export default function ArticlePage() {
           <div className="lg:col-span-1">
             <div className="sticky top-4 space-y-6">
               {/* PDF Download Button */}
-              <Button 
+              <Button
                 className="w-full bg-[#7FB843] hover:bg-[#6FA833] text-white py-6 text-base"
                 asChild
               >
